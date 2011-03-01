@@ -1,0 +1,3 @@
+Ein Greasemonkey-Script, für Moderatoren, dass das Posting-Formular um zwei Elemente erweitert: Kommentarzeile und Hinweis auf verschobenen Thread.
+
+!https://github.com/tacker/MGi-Mod-Tools/raw/master/mgimodtool.png!

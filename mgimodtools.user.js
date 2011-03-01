@@ -7,8 +7,6 @@
 // @include       http://www.mediengestalter.info/privmsg.php*
 // ==/UserScript==
 
-// @version       $Id: mgimodtools.user.js 38 2011-03-01 16:45:13Z m $
-
 (function() {
 
     // Color for your comments

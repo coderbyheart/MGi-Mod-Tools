@@ -6,8 +6,6 @@
 // @include        http://mediengestalter.info/*
 // ==/UserScript==
 
-// @version        $Id$
-
 function addGlobalStyle(css) {
     var head, style;
     head = document.getElementsByTagName('head')[0];
