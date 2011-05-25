@@ -207,6 +207,7 @@
     "</optroup>\n" +
     "<optgroup label='Sonstiges'>\n" +
     "<option label='Surftipps' value='http://www.mediengestalter.info/forum/13/surftipps-1.html'>Surftipps</option>\n" +
+    "<option label='MGi-Treffen &amp; Veranstaltungen' value='http://www.mediengestalter.info/forum/59/mgi-treffen-veranstaltungen-1.html'>MGi-Treffen &amp; Veranstaltungen</option>\n" +
     "<option label='Off Topic - Diskussionsrunde' value='http://www.mediengestalter.info/forum/47/off-topic-diskussionsrunde-1.html'>Off Topic - Diskussionsrunde</option>\n" +
     "<option label='Off Topic - Plauderecke' value='http://www.mediengestalter.info/forum/14/off-topic-plauderecke-1.html'>Off Topic - Plauderecke</option>\n" +
     "</optroup>\n";
