@@ -307,7 +307,7 @@
         // Use colors switch
         addHTML(targetNode, " | <input type='checkbox' name='MGiModToolsUseColors' id='MGiModToolsUseColors' value='1' checked='true' /> <label for='MGiModToolsUseColors' title='Eingef&uuml;gte Text farbig markieren?'>Farbig?</label>");
         // Update link
-        addHTML(targetNode, " | <a href='http://code.coderbyheart.de/svn/greasemonkey/mgimodtools.user.js' title='Rechts-Klicken und \"Install User Script...\" ausw&auml;hlen, um die neueste Version zu installieren.'>update</a>");
+        addHTML(targetNode, " | <a href='https://github.com/tacker/MGi-Mod-Tools/raw/master/mgimodtools.user.js' title='Rechts-Klicken und \"Install User Script...\" ausw&auml;hlen, um die neueste Version zu installieren.'>update</a>");
         // Feedback
         addHTML(targetNode, " | <a href='http://www.mediengestalter.info/forum/28/mgi-mod-tools-greasemonkey-52052-1.html' title='Feedback'>Feedback</a>");
         addHTML(targetNode, "</span>");
